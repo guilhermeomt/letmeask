@@ -21,6 +21,8 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "no-shadow": "off",
+        "react/destructuring-assignment": "off", 
         "react/jsx-filename-extension": [
             0
         ],
