@@ -21,6 +21,8 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "no-alert": "off",
+        "no-confirm": "off",
         "no-unused-vars": "off",
         "no-shadow": "off",
         "import/no-extraneous-dependencies": "off",
